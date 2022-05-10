@@ -1,7 +1,8 @@
 /* Global rules */
 .topnav {
     margin: auto;
-    background-color: rgb(95,95,95);
+    /* here i changed the color of the background */
+    background-color: rgb(13, 225, 229);
     overflow: auto;
 }
 

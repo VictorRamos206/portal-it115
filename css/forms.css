@@ -18,15 +18,15 @@ form>div {
     font-style:italic;
     font-size:70%;
     font-weight:bold;
-    color:#f00;
+    color:rgb(212, 16, 111);
 }
 
 input:required {
-      border: 1px solid red;
+      border: 1px solid rgb(39, 178, 11);
 }
 
 input:optional, textarea:optional {
-     background-color:#f1f1f1;
+     background-color:#3e0808;
      border:1px solid #ccc;
 }
 
